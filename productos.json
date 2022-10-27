@@ -1,0 +1,38 @@
+[
+    {
+        "id":1234,
+        "nombre": "Reja",
+        "precio": 15000,
+        "img": "./img/reja.jfif"
+    },
+    {
+        "id":2345,
+        "nombre": "Porton",
+        "precio": 50000,
+        "img": "./img/porton.jfif"
+    },
+    {
+        "id":3456,
+        "nombre": "Escalera",
+        "precio": 35000,
+        "img": "./img/escalera1.jfif"
+    },
+    {
+        "id":4567,
+        "nombre": "Deck",
+        "precio": 25000,
+        "img": "./img/deck.jfif"
+    },
+    {
+        "id":5678,
+        "nombre": "Pergola",
+        "precio": 3000,
+        "img": "./img/pergola.jfif"
+    },
+    {
+        "id":6789,
+        "nombre": "Parrilla",
+        "precio": 3000,
+        "img": "./img/parrilla.jfif"
+    }
+]
